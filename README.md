@@ -2,9 +2,9 @@
 Hi! My name is Jaden Balogh and I'm a passionate game developer from BC, Canada. I love collaborating with others and you'll find many of my projects here on GitHub. Check out some of my pinned repositories down below!
 
 <p float="left" align="middle">
-  <a href="https://github.com/JadenBalogh/whirlwind-smasher"><img src="https://github.com/JadenBalogh/whirlwind-smasher/blob/dev/Promo/Whirlwind%20Smasher%20Demo.gif" height="160" /></a>
-  <a href="https://github.com/ubco-video-game-development-club/gravity-box"><img src="https://github.com/ubco-video-game-development-club/gravity-box/blob/main/Promo/gravity-box-gameplay-smol.gif" height="160" /></a>
-  <a href="https://github.com/ubco-video-game-development-club/ruins-of-tyrrazza"><img src="https://github.com/ubco-video-game-development-club/ruins-of-tyrrazza/blob/master/RuinsOfTyrrazzaGameplay.gif" height="160" /></a>
+  <a href="https://github.com/JadenBalogh/whirlwind-smasher"><img src="https://github.com/JadenBalogh/whirlwind-smasher/blob/dev/Promo/Whirlwind%20Smasher%20Demo.gif" height="150" /></a>
+  <a href="https://github.com/ubco-video-game-development-club/gravity-box"><img src="https://github.com/ubco-video-game-development-club/gravity-box/blob/main/Promo/gravity-box-gameplay-smol.gif" height="150" /></a>
+  <a href="https://github.com/ubco-video-game-development-club/ruins-of-tyrrazza"><img src="https://github.com/ubco-video-game-development-club/ruins-of-tyrrazza/blob/master/RuinsOfTyrrazzaGameplay.gif" height="150" /></a>
 </p>
 
 ### Game Development 🎮
