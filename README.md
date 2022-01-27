@@ -1,5 +1,5 @@
 ## Welcome to my Profile! 👋
-Hi! My name is Jaden Balogh and I'm a passionate game developer from BC, Canada. I love collaborating with others and you'll find many of my projects here on GitHub. Check out some of my pinned repositories down below!
+Hi! My name is Jaden Balogh and I'm a passionate game developer living in Toronto. I love collaborating with others and you'll find many of my projects here on GitHub. Check out some of my pinned repositories down below!
 
 <p float="left" align="middle">
   <a href="https://github.com/JadenBalogh/whirlwind-smasher"><img src="https://github.com/JadenBalogh/whirlwind-smasher/blob/dev/Promo/Whirlwind%20Smasher%20Demo.gif" height="150" /></a>
